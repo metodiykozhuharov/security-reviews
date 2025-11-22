@@ -1,6 +1,8 @@
 
 # Raisebox Faucet
 
+This report earned **4th place**, as can be seen from the [leaderboard](https://codehawks.cyfrin.io/c/2025-10-raisebox-faucet/results).
+
 ## Executive Summary
 
 RaiseBox Faucet is a token drip faucet that drips 1000 test tokens to users every 3 days. It also drips 0.005 sepolia eth to first time users. The faucet tokens will be useful for testing the testnet of a future protocol that would only allow interactions using this tokens.
